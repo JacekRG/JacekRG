@@ -1,7 +1,7 @@
 
 
 <h1 align="center">👋 Hi! I'm Jacek 👋</h1>
-A self-taught Java Developer and an engineer from Poland. I'm eager to take new opportunities in IT and improve myself. Ready to learn and to give my best.
+A self-taught Java Developer and an Engineer from Poland. I'm eager to take new opportunities in IT and improve myself. Ready to learn and to give my best.
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
