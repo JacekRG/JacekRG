@@ -11,7 +11,7 @@ More about me:
 
 - 👀 I’m interested in Backend Development, SmartHome solutions, PubQuizzes and Alps exploring by e-scooter.
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/JacekRG?tab=repositories)
+- 👨‍💻 Most of my projects are available at [github](https://github.com/JacekRG?tab=repositories)
 
 - 📫 Reach me via email: **jacek_rglsk@prokonto.pl** or LinkedIn:
 <a href="https://linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" title="LinkedIn" height="30" width="40" /></a>
