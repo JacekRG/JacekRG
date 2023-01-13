@@ -23,4 +23,5 @@ More about me:
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/113288219/207062251-a37329d8-4709-4a02-a019-9e3dac34dbc0.png" title="Thymeleaf"></code>
 <code><img height="40" src="https://secure.gravatar.com/avatar/c61b120bdaedf42832ad4c9e391b3929.png" title="Jenkins"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/113288219/207068990-53efdf46-ea10-4994-bd47-c724e53d47f3.png" title="Docker"></code>
