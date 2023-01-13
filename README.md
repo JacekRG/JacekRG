@@ -13,7 +13,7 @@ More about me:
 
 - 👨‍💻 Most of my projects are available on [github](https://github.com/JacekRG?tab=repositories)
 
-- 📬 Reach me via email: **jacek_rglsk@prokonto.pl** or LinkedIn:
+- 📬 Reach me via email:&nbsp; **jacek_rglsk@prokonto.pl** or LinkedIn:
 <a href="https://linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" title="LinkedIn" height="30" width="40" /></a>
 
 <h3 align="left">Worked with:</h3>
