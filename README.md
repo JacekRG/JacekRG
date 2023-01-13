@@ -7,7 +7,7 @@ A self-taught Java Developer and an Engineer from Poland. I'm eager to take new 
 
 More about me:
 
-- 💼 Master in Management and Production Engineering at Cracow University of Technology.
+- 👨‍🎓 Master in Management and Production Engineering at Cracow University of Technology.
 
 - 👀 I’m interested in Backend Development, SmartHome solutions, PubQuizzes and Alps exploring by e-scooter.
 
