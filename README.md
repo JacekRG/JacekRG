@@ -9,7 +9,7 @@ More about me:
 
 - 👨‍🎓 Master in Management and Production Engineering at Cracow University of Technology
 
-- 👀 I’m interested in Backend Development, SmartHome solutions, PubQuizzes and Alps exploring by e-scooter 🗻🛴
+- 👀 I’m interested in Backend Development, SmartHome solutions, PubQuizzes and Alps exploring by [e-scooter](https://online.fliphtml5.com/zmgvu/tkbx) 🗻🛴
 
 - 👨‍💻 Most of my projects are available on [github](https://github.com/JacekRG?tab=repositories)
 
